@@ -17,7 +17,7 @@ Je suis **étudiant en informatique** passionné par la cybersécurité, l'IA et
   - Site de rendez-vous (coiffeur) avec architecture hybride  
   - Création d'un site utilisant une ia (Gemini 3.1 live) pour résoudre un problème pour un hackathon
 
-## 📊 Tableau récapitulatif
+## Tableau récapitulatif
 
 | Domaine          | Compétences principales                         | Outils utilisés                          |
 |------------------|-------------------------------------------------|------------------------------------------|
